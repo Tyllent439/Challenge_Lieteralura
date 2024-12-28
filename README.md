@@ -1,8 +1,8 @@
-#Biblioteca Interactiva - Menú Principal
+# Biblioteca Interactiva - Menú Principal
 
 Esta aplicación permite a los usuarios gestionar una colección de libros y autores de manera interactiva. El menú principal ofrece diversas opciones para buscar y listar información.
 
-##Menú Principal
+## Menú Principal
 
 A continuación, se detalla el menú principal de la aplicación:
 
