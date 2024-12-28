@@ -26,7 +26,7 @@ Seleccione una opción:
 
 ## 1. Buscar libros por título
 
-Permite realizar una búsqueda de libros por título. El usuario puede ingresar el título completo o una parte del mismo.
+Permite realizar una búsqueda de libros por título. El usuario puede ingresar el título completo o una parte del mismo. Esta informacion se consigue con la API de Gutendex.
 
 ![](Imagenes/1.png)
 
